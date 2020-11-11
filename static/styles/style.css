@@ -1,0 +1,88 @@
+.container-fluid > .home-header h1{
+    padding: 60px;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    border-bottom: black;
+    font-family: "open-sans", sans-serif;
+}
+
+#defender {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
+
+.defenders-header p {
+    padding: 25px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.defenders-header h1 {
+    text-decoration: underline;
+    padding: 25px;
+    text-align: left;
+    font-size: 30px;
+}
+
+#midfielder {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
+
+.midfielders-header p {
+    padding: 25px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.midfielders-header h1 {
+    text-decoration: underline;
+    padding: 25px;
+    text-align: left;
+    font-size: 30px;
+}
+
+#attacker {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
+
+.attackers-header p {
+    padding: 25px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.attackers-header h1 {
+    text-decoration: underline;
+    padding: 25px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.container-fluid > .home-header p{
+    padding: 60px;
+    text-align: center;
+    font-family: "open-sans", sans-serif;
+
+}
+.videowrapper {
+    text-align: center;
+}
+
+#footer {
+    padding-bottom: 2px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
